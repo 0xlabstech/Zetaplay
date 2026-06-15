@@ -1,10 +1,10 @@
-# Ritual - ZetaPlay
+# ZetaPlay
 
 
 ## Decentralized AI-Powered Multi-Chain Gaming Platform
 
-> **Blockchain Gaming on the Ritual Network**  
-> ZetaPlay is a gaming platform built on the **Ritual Network**, using decentralized AI. It supports multiple blockchains like **Ethereum (EVM)**, **Solana**, **Bitcoin**, and more chains. Play-to-Earn (P2E) mechanics let you earn real crypto rewards.
+> **Blockchain Gaming**  
+> ZetaPlay is a blockchain-based gaming platform powered by decentralized AI technology. It supports multiple blockchains like **Ethereum (EVM)**, **Solana**, **Bitcoin**, and more chains. Play-to-Earn (P2E) mechanics let you earn real crypto rewards.
 
 ---
 
@@ -18,7 +18,7 @@
 
 - **Decentralized AI**
 - **Multi-Chain Support**: Play on **Ethereum (EVM)**, **Solana**, and other supported blockchains. Your assets and rewards can move between chains.
-- **Play-to-Earn (P2E)**: Earn real **crypto rewards** while playing. Rewards are powered by the Ritual Network's AI to make payouts fair.
+- **Play-to-Earn (P2E)**: Earn real **crypto rewards** while playing. AI-powered mechanisms help promote fair and transparent reward distribution.
 - **NFT Avatars**: Create and use **NFT avatars**, supported on Ethereum, and other networks.
 - **On-Chain Game Logic**: All gameplay is controlled by smart contracts.
 - **Token Integration**: Stake and earn with native tokens across different blockchains.
@@ -48,7 +48,7 @@
 
 ```bash
 git clone <git-repository-url>
-cd ZetaPlay
+cd <repository-name>
 
 # Install root dependencies
 npm install
@@ -90,6 +90,4 @@ npm start
   - Screenshots for UI updates  
 - Tag related issues/tasks.
 
-## Confidentiality
-This repository is proprietary to **Ritual**.
 
